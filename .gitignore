@@ -1,0 +1,6 @@
+*/
+*.bin
+*.bin.gz
+*.csv
+*.tsv
+*.code-workspace
