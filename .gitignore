@@ -1,4 +1,6 @@
 */
+!/outputs
+/outputs/*
 !/outputs/OUTPUTpulpfiction.tsv
 !/outputs/OUTPUTwolfofwallstreet.tsv
 *.bin
