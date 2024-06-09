@@ -1,4 +1,6 @@
 */
+!/outputs/OUTPUTpulpfiction.tsv
+!/outputs/OUTPUTwolfofwallstreet.tsv
 *.bin
 *.bin.gz
 *.csv
