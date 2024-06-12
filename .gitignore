@@ -1,5 +1,8 @@
 */
 !/outputs
+!/BERT-ConvBERT-DistilBERT
+!/BiLSTM
+!/old_code
 /outputs/*
 !/outputs/OUTPUTpulpfiction.tsv
 !/outputs/OUTPUTwolfofwallstreet.tsv
